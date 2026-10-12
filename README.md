@@ -4,6 +4,8 @@ Installation et configuration d'un serveur de messagerie interne sous Debian pou
 
 **Auteur :** Djawad TOURE ISSAHOU (travail individuel)
 
+![Thunderbird connecté aux comptes commercial@eurobd.lan et client1@eurobd.lan, message reçu](captures/thunderbird-deux-comptes.png)
+
 ## Contenu
 
 | Document | Description |
